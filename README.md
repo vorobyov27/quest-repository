@@ -20,5 +20,7 @@ Script - is just some set of commands, that allows us to see a transactions in b
  - Approachability
  - Developer Experience
  - Resource Oriented Programming
+
 2) In your opinion, even without knowing anything about the Blockchain or coding, why could the 5 Pillars be useful:
+
 I think, 5 Pillars allow to Cadence to be attractive for blockchain developers (especially pillar #2, #3, #4) and for users (pillar #1). So Cadence have perfect chances to become the most popular smart contract programming languages.
