@@ -24,3 +24,9 @@ Script - is just some set of commands, that allows us to see a transactions in b
 2) In your opinion, even without knowing anything about the Blockchain or coding, why could the 5 Pillars be useful:
 
 I think, 5 Pillars allow to Cadence to be attractive for blockchain developers (especially pillar #2, #3, #4) and for users (pillar #1). So Cadence have perfect chances to become the most popular smart contract programming languages.
+
+## Chapter 2.0:
+### Day 1.![ch2d1](https://user-images.githubusercontent.com/45060447/173443634-824cfeed-3069-41ed-b73b-84451217104f.png)
+
+
+
